@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <title>Fabirium Spades: a card with F and a in its corners</title>
+  <rect width="100" height="100" rx="22" fill="#14122B"/>
+  <rect x="24" y="12" width="52" height="76" rx="8" fill="#1A1733" stroke="#FFFFFF" stroke-width="3.5"/>
+  <text x="31" y="29" font-family="'Space Grotesk', Arial, sans-serif" font-weight="700" font-size="13" fill="#FF5D73">F</text>
+  <text x="69" y="80" font-family="'Space Grotesk', Arial, sans-serif" font-weight="700" font-size="13" fill="#9D86FF" text-anchor="middle" transform="rotate(180 69 76)">a</text>
+  <g transform="translate(33 33) scale(0.34)">
+    <path fill="#FF5D73" d="M50 6 C40 22 10 38 10 60 C10 74 22 82 34 81 C41 80 46 76 48 72 C47 80 44 88 38 94 L50 94 Z"/>
+    <path fill="#9D86FF" d="M50 6 C60 22 90 38 90 60 C90 74 78 82 66 81 C59 80 54 76 52 72 C53 80 56 88 62 94 L50 94 Z"/>
+  </g>
+</svg>
